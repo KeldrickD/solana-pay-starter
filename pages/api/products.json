@@ -1,11 +1,20 @@
 [
-    {
-      "id": 1,
-      "name": "Blockchain Secrets Ebook",
-      "price": "0.07",
-      "description": "Get this fire ebook for only $0.07! Includes Checklist, Resource Cheat sheet & Mindmap",
-      "image_url": "https://i.imgur.com/pqlY6XG.png",
-      "filename": "Blockchain Secrets Ebook",
-      "hash": "QmbZKwrkMNd1M4KtgjzMpDVvTZHfJ6NBV91aeaCp5mQLMm"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Blockchain Secrets Ebook",
+    "price": "10",
+    "description": "Do you know the basics of blockchain technology and Bitcoin? Do you know what circulating vs total supply means? Do you know about exchanges, wallets, private keys, and public keys? Can’t answer these basic questions, you’re in trouble! ",
+    "image_url": "https://i.imgur.com/pqlY6XG.png",
+    "filename": "Blockchain Secrets Ebook",
+    "hash": "QmbZKwrkMNd1M4KtgjzMpDVvTZHfJ6NBV91aeaCp5mQLMm"
+  },
+  {
+    "id": 2,
+    "name": "Things To Avoid When Trading Crypto Ebook",
+    "price": "7",
+    "image_url": "https://i.imgur.com/uWURh18.png",
+    "description": "If you’re beginning, you’re eager to trade. Take some time to develop a basic cryptocurrency trading strategy and to educate yourself.",
+    "filename": "Things To Avoid When Trading Crypto.pdf",
+    "hash": "QmSDMqn8mJgRxWzYPzNL7aYD9pfy9NgT1vmB6WYoXdpoe6"
+  }
+]

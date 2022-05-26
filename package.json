@@ -15,9 +15,9 @@
   },
   "scripts": {
     "clean": "shx rm -rf .next",
-    "dev": "next dev",
+    "dev": "next dev && node public/index.js",
     "build": "yarn clean && next build",
-    "start": "next start",
+    "start": "next start && node public/index.js",
     "lint": "next lint"
   },
   "dependencies": {
